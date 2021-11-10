@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dev-SsyncC
-- 👀 I’m interested in full-stack dev , Ai/ml, CC;
+- 👀 I’m interested in Android , ML/Ai , Web dev;
 - 🌱 I’m currently learning algorithms;
 - 💞️ I’m looking to collaborate on new unexplored skills;
 - 📫 How to reach me - mail me at - vishkaranwakarma@gmail.com;
