@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dev-SsyncC
-- 👀 I’m interested in Android , ML/Ai , Web dev;
+- 👋 Hi, I’m @dev-SsyncC;
+- 👀 I’m interested in Android ( Flutter ) , Web dev ( Js frameworks ) and BlockChain;
 - 🌱 I’m currently learning algorithms;
 - 💞️ I’m looking to collaborate on new unexplored skills;
 - 📫 How to reach me - mail me at - vishkaranwakarma@gmail.com;
